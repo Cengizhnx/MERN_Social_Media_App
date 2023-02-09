@@ -1,0 +1,14 @@
+Nodemon
+Express
+Body-Parser
+Bcrypt
+Cors
+DotEnv
+Gridfs-stream
+Multer
+Multer Gridfs-storage 
+Helmet
+Morgan
+JsonWebToken
+Mongoose
+Cookie Parser
